@@ -1,3 +1,4 @@
 # Manish-Projects
 Core Java Project
-Autho - Manish Bhagat
+<br>
+Author - Manish Bhagat
